@@ -4,4 +4,6 @@ Project to find the best quality of wine using Machine Learning.
 - Python
 - Tensorflow
 - numpy
-- keras
+- pandas
+## Usage
+Open with Google Colab
